@@ -21,7 +21,7 @@ These are features that are currently implemented in **Study Schedule Planner**,
 
 2. As a student committed to improvement, I want to see detailed analytics on my study progress and performance, so that I can adjust my strategies and optimize my study habits over time.
 
-3. As a student who uses digital calendars, I want the planner to integrate with my existing calendar (e.g., Google Calendar), so that all my study sessions and other events appear in one unified view.
+3. As a student with varying concentration levels, I want to choose from different study modes (such as Pomodoro, Deep Focus, or Quick Review), so that I can adapt my study sessions to my current energy and focus.
 
 ## Potential Features Expansion
 
@@ -29,7 +29,7 @@ These are features that are currently implemented in **Study Schedule Planner**,
 
 2. As a student enrolled in courses with online learning platforms, I want the planner to import assignment deadlines and exam dates from my LMS (e.g., Canvas or Moodle), so that my study schedule is always up-to-date.
 
-3. As a student with varying concentration levels, I want to choose from different study modes (such as Pomodoro, Deep Focus, or Quick Review), so that I can adapt my study sessions to my current energy and focus.
+3. As a student who uses digital calendars, I want the planner to integrate with my existing calendar (e.g., Google Calendar), so that all my study sessions and other events appear in one unified view.
 
 4. As a student motivated by achievements, I want to earn badges and rewards for completing study sessions and reaching milestones, so that I have an extra incentive to stick to my schedule.
 
