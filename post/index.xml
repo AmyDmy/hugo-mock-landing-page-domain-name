@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Study Schedule Planner</title>
-    <link>https://AmyDmy.github.io/hugo-mock-landing-page/post/</link>
-    <description>Recent content in Posts on Study Schedule Planner</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <atom:link href="https://AmyDmy.github.io/hugo-mock-landing-page/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Study Guide</title>
-      <link>https://AmyDmy.github.io/hugo-mock-landing-page/post/study-guide/</link>
-      <pubDate>Mon, 10 Feb 2025 12:00:00 +0800</pubDate>
-      <guid>https://AmyDmy.github.io/hugo-mock-landing-page/post/study-guide/</guid>
-      <description>&lt;h1 id=&#34;the-ultimate-guide-to-crafting-an-efficient-study-plan&#34;&gt;The Ultimate Guide to Crafting an Efficient Study Plan&lt;/h1&gt;&#xA;&lt;p&gt;Modern students face heavy academic workloads, and a well-organized, efficient study plan can help you set clear goals, improve efficiency, and adjust your progress in time. In this article, we will detail how to use &lt;strong&gt;Study Scheduler&lt;/strong&gt; to create and manage your study plan, and share some practical tips for effective planning.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-do-you-need-a-study-plan&#34;&gt;Why Do You Need a Study Plan?&lt;/h2&gt;&#xA;&lt;p&gt;A clear study plan can help you:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Study Schedule Planner</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/post/</link><description>Recent content in Posts on Study Schedule Planner</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><atom:link href="https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Study Guide</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/post/study-guide/</link><pubDate>Mon, 10 Feb 2025 12:00:00 +0800</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/post/study-guide/</guid><description>&lt;h1 id="the-ultimate-guide-to-crafting-an-efficient-study-plan">The Ultimate Guide to Crafting an Efficient Study Plan&lt;/h1>
+&lt;p>Modern students face heavy academic workloads, and a well-organized, efficient study plan can help you set clear goals, improve efficiency, and adjust your progress in time. In this article, we will detail how to use &lt;strong>Study Scheduler&lt;/strong> to create and manage your study plan, and share some practical tips for effective planning.&lt;/p>
+&lt;hr>
+&lt;h2 id="why-do-you-need-a-study-plan">Why Do You Need a Study Plan?&lt;/h2>
+&lt;p>A clear study plan can help you:&lt;/p></description></item></channel></rss>

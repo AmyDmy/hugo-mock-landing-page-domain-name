@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Study Schedule Planner</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/</link><description>Recent content on Study Schedule Planner</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><lastBuildDate>Thu, 20 Feb 2025 18:35:44 +0000</lastBuildDate><atom:link href="https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/index.xml" rel="self" type="application/rss+xml"/><item><title>Study Guide</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/post/study-guide/</link><pubDate>Mon, 10 Feb 2025 12:00:00 +0800</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/post/study-guide/</guid><description>&lt;h1 id="the-ultimate-guide-to-crafting-an-efficient-study-plan">The Ultimate Guide to Crafting an Efficient Study Plan&lt;/h1>
-&lt;p>Modern students face heavy academic workloads, and a well-organized, efficient study plan can help you set clear goals, improve efficiency, and adjust your progress in time. In this article, we will detail how to use &lt;strong>Study Scheduler&lt;/strong> to create and manage your study plan, and share some practical tips for effective planning.&lt;/p>
-&lt;hr>
-&lt;h2 id="why-do-you-need-a-study-plan">Why Do You Need a Study Plan?&lt;/h2>
-&lt;p>A clear study plan can help you:&lt;/p></description></item><item><title>About</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/about/</guid><description>&lt;h1 id="about-us">About Us&lt;/h1>
-&lt;p>Made with ❤️ by the &lt;em>Hugo Bootstrap Theme&lt;/em> &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">team&lt;/a>.&lt;/p></description></item><item><title>Code of Conduct</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</guid><description>&lt;h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct&lt;/h1>
-&lt;h2 id="our-pledge">Our Pledge&lt;/h2>
-&lt;p>We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.&lt;/p>
-&lt;p>We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.&lt;/p></description></item><item><title>Contact</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
-&lt;p>&lt;a href="https://github.com/AmyDmy/hugo-mock-landing-page/issues/new" target="_blank" rel="noopener">Open an issue&lt;/a> on GitHub.&lt;/p></description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Featured on Study Schedule Planner</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/tags/featured/</link><description>Recent content in Featured on Study Schedule Planner</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><atom:link href="https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/tags/featured/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
 &lt;p>Hugo has excellent Markdown support out of the box. By default, Hugo uses the &lt;a href="https://github.com/yuin/goldmark/" target="_blank" rel="noopener">Goldmark Markdown processor&lt;/a> which is fully CommonMark-compliant. See the &lt;a href="https://gohugo.io/getting-started/configuration-markup/" target="_blank" rel="noopener">configuration instructions&lt;/a> to learn more about the extensions you can configure.&lt;/p>
 &lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>You can refer to the table below for an overview of basic markdown syntax:&lt;/p>
@@ -143,16 +128,4 @@ diverse, inclusive, and healthy community.&lt;/p></description></item><item><tit
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Image&lt;/span>](&lt;span style="color:#a6e22e">placeholder-50-09f-fff.png&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{ .img-fluid }
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item><item><title>Privacy Policy</title><link>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AmyDmy.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</guid><description>&lt;h1 id="privacy-policy">Privacy Policy&lt;/h1>
-&lt;p>&lt;strong>TL;DR&lt;/strong>: We do not use cookies and we do not collect any personal data.&lt;/p>
-&lt;h2 id="website-visitors">Website visitors&lt;/h2>
-&lt;ul>
-&lt;li>No personal information is collected.&lt;/li>
-&lt;li>No information is stored in the browser.&lt;/li>
-&lt;li>No information is shared with, sent to or sold to third-parties.&lt;/li>
-&lt;li>No information is shared with advertising companies.&lt;/li>
-&lt;li>No information is mined and harvested for personal and behavioral trends.&lt;/li>
-&lt;li>No information is monetized.&lt;/li>
-&lt;/ul>
-&lt;h2 id="information-we-collect-and-what-we-use-it-for">Information we collect and what we use it for&lt;/h2>
-&lt;p>The server hosting this site can collect the following information:&lt;/p></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item></channel></rss>
