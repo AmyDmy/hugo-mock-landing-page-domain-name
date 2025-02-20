@@ -24,7 +24,7 @@ jobs:
       - name: 🛠️ Initialize Hugo Environment
         uses: peaceiris/actions-hugo@v2.6.0
         with:
-          hugo-version: "0.123.4"
+          hugo-version: "0.143.1"
           extended: true
 
       - name: 🏗️ Compile Hugo Static Files
